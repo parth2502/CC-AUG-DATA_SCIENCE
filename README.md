@@ -1,6 +1,6 @@
 # CC-AUG-DATA_SCIENCE
 
-Both Projects added as per CodeClause-Data Science Internship. Customer Churn Rate Analysis and Covid Analysis Projects created and you can Show it from here !
+Both Projects added as per CodeClause-Data Science Internship. Customer Churn Rate Analysis and Covid Analysis Projects created and you can show it from here !
 
   1.TASK1-CUSTOMER_CHURN_RATE_ANALYSIS
   
